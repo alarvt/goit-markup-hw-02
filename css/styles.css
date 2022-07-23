@@ -1,0 +1,206 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    
+}
+
+/*-----------header----------*/
+
+.header {
+    background-color: #FFFFFF;
+    background-size: 1600px 80px;
+}
+
+.logo-web {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+     
+}
+
+.logo-studio {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
+.header-nav {        
+
+}
+
+.header-item {
+    font-weight: 500;
+    line-height: 16px;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.header-contact-pre {
+
+}
+
+.header-contact {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.nav-hover:hover {
+    color: #2196F3;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/*-----------sectoin slogan----------*/
+
+.slogan {
+    background-color: #2F303A;
+    background-size: 1600px 600px;
+}
+
+.slogan-title {
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    color: #FFFFFF;     
+}
+
+.slogan-text {
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background-color: #2196F3;
+    background-size: 200px 50px;
+    text-align: center;
+    }
+
+/*-----------subtitle----------*/
+
+.subtitle-title {
+    font-size: 14px;
+    font-weight: 700;    
+    vertical-align: top;
+    letter-spacing: 0.03em;
+    color:  #212121;
+
+}
+
+.subtitle-text {
+    font-size: 14px;
+    font-weight: 400;    
+    vertical-align: top;
+    letter-spacing: 0.03em;
+    color:  #757575;
+}
+
+/*-----------subject----------*/
+
+.subject-title {
+    font-size: 36px;
+    font-weight: 700;    
+    vertical-align: top;
+    letter-spacing: 0.03em;
+    color:  #212121;
+}
+
+/*-----------team----------*/
+
+.team-title {
+    font-size: 36px;
+    font-weight: 700;    
+    vertical-align: top;
+    letter-spacing: 0.03em;
+    color:  #212121;
+}
+
+.team-subtitle {
+    font-size: 16px;
+    font-weight: 500;    
+    vertical-align: top;
+    letter-spacing: 0.03em;
+    color:  #212121;
+}
+
+.team-text {
+    font-size: 16px;
+    font-weight: 500;    
+    vertical-align: top;
+    letter-spacing: 0.03em;
+    color:  #757575;
+}
+
+/*-----------footer----------*/
+
+.footer {
+    background-color: #2F303A;
+}
+
+.footer-logo-studio {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.footer-contact {
+    
+}
+
+.footer-item-pre {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.footer-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;;
+    color: #FFFFFF99;
+}
+
+/*-----------heading----------*/
+
+.heading-nav {
+}
+.heading-section {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;    
+}
+.heading-list {
+}
+.heading-item {
+    background-color: #F5F4FA;
+    color: #212121;
+}
+
+.heading-hover:hover {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
