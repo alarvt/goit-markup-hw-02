@@ -104,7 +104,7 @@ body {
 /*-----------subtitle----------*/
 
 .section-subtitle {
-    background: #E5E5E5;
+    background: #FFFFFF;
 }
 
 .subtitle-title {
@@ -127,7 +127,7 @@ body {
 /*-----------subject----------*/
 
 .section-subject {
-    background: #E5E5E5;
+    background: #FFFFFF;
 }
 
 .subject-title {
@@ -207,10 +207,10 @@ body {
 
 }
 
-/*-----------heading----------*/
+/*-----------button-section----------*/
 
 .button-section {
-    background: #E5E5E5;
+    background: #FFFFFF;
 
 }
 .button-list {
