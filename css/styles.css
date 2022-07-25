@@ -1,13 +1,10 @@
 :root {
     --main-title-color: #212121;
     --main-text-color: #757575;
-
-
 }
 
-
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", "sans-serif";
 }
 
 .list {
@@ -89,16 +86,17 @@ body {
 }
 
 .slogan-text {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.875;
+    line-height: 30px;
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
     background-color: #2196F3;
-    background-size: 200px 50px;
 }
 
 /*-----------subtitle----------*/
@@ -192,6 +190,7 @@ body {
 
 .footer-item-pre {
     font-weight: 400;
+    font-style: normal;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
@@ -200,6 +199,7 @@ body {
 
 .footer-item {
     font-weight: 400;
+    font-style: normal;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
@@ -216,9 +216,12 @@ body {
 .button-list {
 }
 .button-item {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 26px;
+    text-align: center;
     letter-spacing: 0.03em;
     background-color: #F5F4FA;
     color: var(--main-title-color);
